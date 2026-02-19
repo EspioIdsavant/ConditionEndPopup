@@ -1,0 +1,10 @@
+D:\Mod Root\Mods To Update\ConditionEndPopup\1.5\Assemblies\EndPopup.dll
+D:\Mod Root\Mods To Update\ConditionEndPopup\Source\obj\Debug\EndPopup.csproj.AssemblyReference.cache
+D:\Mod Root\Mods To Update\ConditionEndPopup\Source\obj\Debug\EndPopup.csproj.CoreCompileInputs.cache
+D:\Mod Root\Mods To Update\ConditionEndPopup\Source\obj\Debug\EndPopup.csproj.CopyComplete
+D:\Mod Root\Mods To Update\ConditionEndPopup\Source\obj\Debug\EndPopup.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\1.5\Assemblies\EndPopup.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\EndPopup.csproj.AssemblyReference.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\EndPopup.csproj.CoreCompileInputs.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\EndPopup.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\EndPopup.csproj.Up2Date
