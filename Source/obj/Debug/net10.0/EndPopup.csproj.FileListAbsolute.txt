@@ -1,0 +1,9 @@
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\1.7\Assemblies\net10.0\EndPopup.deps.json
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\1.7\Assemblies\net10.0\EndPopup.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\EndPopup.csproj.AssemblyReference.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\EndPopup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\EndPopup.csproj.CoreCompileInputs.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\EndPopup.sourcelink.json
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\EndPopup.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\refint\EndPopup.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ConditionEndPopup\Source\obj\Debug\net10.0\ref\EndPopup.dll

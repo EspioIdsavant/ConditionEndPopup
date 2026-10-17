@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\ConditionEndPopup\\Source\\EndPopup.csproj": {}
+  },
+  "projects": {
+    "D:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\ConditionEndPopup\\Source\\EndPopup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\ConditionEndPopup\\Source\\EndPopup.csproj",
+        "projectName": "EndPopup",
+        "projectPath": "D:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\ConditionEndPopup\\Source\\EndPopup.csproj",
+        "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\ConditionEndPopup\\Source\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
